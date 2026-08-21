@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "versionCode": 10000,
+  "releaseDate": "2026-08-21",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.0.0.apk",
+  "sha256": "REPLACE_WITH_64_CHARACTER_SHA256_OF_THE_SIGNED_APK",
+  "fileSize": "",
+  "changelog": ["Versão inicial do NexFatura."]
+}
