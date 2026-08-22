@@ -1,17 +1,12 @@
 {
-  "version": "1.2.0",
-  "versionCode": 10200,
+  "version": "1.4.1",
+  "versionCode": 10401,
   "releaseDate": "2026-08-22",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.2.0.apk",
-  "sha256": "f2e1094db0dda4de2f985633d2d89f35692458db6cec3b5132553ed6b7379df5",
-  "fileSize": "4.00 MB",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.4.1.apk",
+  "sha256": "09da466d674aa50497459c201bb6ea6b32a67ce90288e67ccbbed559fcefec4f",
+  "fileSize": "4.01 MB",
   "changelog": [
-    "Devoluções totais ou parciais com reposição de stock e reembolso por dinheiro, TPA, Express ou crédito na conta do cliente",
-    "Descontos por linha e desconto da venda em Kz ou percentagem",
-    "Compras a fornecedores: entrada de mercadoria que aumenta o stock automaticamente",
-    "Gestão de fornecedores (novo menu Compras — só administrador)",
-    "Aviso imediato de stock baixo ao vender e filtro «Reposição» nos produtos",
-    "Impressão de etiquetas em série (quantidade à escolha) direto da lista de produtos",
-    "Relatório Z passa a mostrar descontos concedidos, devoluções e compras"
+    "Segurança: as Definições agora avisam (em vermelho) quando nunca enviou um backup para fora do telefone ou já passaram 7+ dias",
+    "O aviso desaparece automaticamente após usar «Exportar Backup» e enviar o ficheiro por WhatsApp/e-mail"
   ]
 }
