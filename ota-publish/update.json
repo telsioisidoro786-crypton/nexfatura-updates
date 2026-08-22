@@ -1,14 +1,14 @@
 {
-  "version": "1.3.1",
-  "versionCode": 10301,
+  "version": "1.4.0",
+  "versionCode": 10400,
   "releaseDate": "2026-08-22",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.3.1.apk",
-  "sha256": "60595016f0bb4903ebb10e2f7753ee11b60b05b7b09798d6762ed35bbc5c3024",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.4.0.apk",
+  "sha256": "4a7517e2d91f37ff279f83aa842fe1364c51e101cab4ac6ff1b920424a169e96",
   "fileSize": "4.02 MB",
   "changelog": [
-    "Corrigidos os caracteres quebrados na página de Clientes (codificação de texto)",
-    "Logótipos da splash screen, bloqueio e cabeçalho voltaram a aparecer",
-    "Novo ícone próprio para o menu Compras (camião) em vez do carrinho duplicado",
-    "Ícone de etiquetas em vetor e texto da lanterna sem emojis"
+    "Novo: exportar o Relatório de Vendas em PDF (botão «Exportar PDF» junto ao CSV)",
+    "O PDF inclui resumo do período, repartição por método de pagamento, top 10 de produtos e histórico completo de vendas",
+    "Cabeçalho com nome, endereço, NIF e telefone da loja (Definições) e rodapé numerado em todas as páginas",
+    "Gerador de PDF próprio — continua 100% offline, sem bibliotecas externas"
   ]
 }
