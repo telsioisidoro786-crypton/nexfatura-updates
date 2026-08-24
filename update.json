@@ -1,14 +1,13 @@
 {
-  "version": "1.7.1",
-  "versionCode": 10701,
+  "version": "1.8.0",
+  "versionCode": 10800,
   "releaseDate": "2026-08-24",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.7.1.apk",
-  "sha256": "69c7096d2ade11185c9d87897f8b01ee5eaf4960856b3e1d34156032fde7f236",
-  "fileSize": "4.10 MB",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.8.0.apk",
+  "sha256": "357878ba8725c87376e29c84111a5079dbc60939dfcf579fbd3c75c1ea273c14",
+  "fileSize": "4.11 MB",
   "changelog": [
-    "Formularios ja nao quebram com caracteres especiais no nome de clientes e fornecedores",
-    "Vendas: o caixa aberto e revalidado antes de gravar cada venda — fim dos recibos fora do relatorio Z",
-    "Mensagens de erro claras em entregas, relatorios e fecho do caixa (com botao disponivel para tentar de novo)",
-    "Mapa offline mais leve: cache de mapas limitada para proteger os dados de vendas em aparelhos cheios"
+    "Novo: pagamento na entrega (COD) para encomendas sem venda — o entregador cobra na porta e o dinheiro entra no caixa com rasto completo, mesmo com o caixa fechado",
+    "Novo: devoluções exigem o PIN do gerente e ficam registadas com o nome de quem autorizou",
+    "Listas de vendas, produtos e compras mais leves quando há muitos registos (botão mostrar mais)"
   ]
 }
