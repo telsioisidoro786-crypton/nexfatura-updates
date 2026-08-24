@@ -1,15 +1,17 @@
 {
-  "version": "1.5.0",
-  "versionCode": 10500,
-  "releaseDate": "2026-08-23",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.5.0.apk",
-  "sha256": "344d8324f5694a2ff1f125fe7755770ead126117bf09ca9c2aaab861157c7947",
-  "fileSize": "4.09 MB",
+  "version": "1.7.0",
+  "versionCode": 10700,
+  "releaseDate": "2026-08-24",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.7.0.apk",
+  "sha256": "e077837f54e570d426c03e3f656af55bc092afb7f812fb3d090b1f4b681cb78e",
+  "fileSize": "4.10 MB",
   "changelog": [
-    "Seguranca: PIN agora protegido com PBKDF2 (150 mil iteracoes) - migracao automatica no primeiro login",
-    "Seguranca: bloqueio de 15 minutos apos 5 tentativas erradas de PIN",
-    "Seguranca: quem usa o PIN inicial 1234 e obrigado a definir um novo no primeiro acesso",
-    "Higiene: permissao NFC removida (nunca foi usada) e rede restrita ao essencial",
-    "Produtos: codigo de barras gerado verifica duplicados antes de criar"
+    "Impressao a prova de falhas: fila de impressao com tempo limite e retry automatico quando o Bluetooth cai",
+    "Reimprimir o ultimo recibo com um toque no PDV (funciona mesmo depois de fechar a aplicacao)",
+    "Dinheiro: recebimento fiado sem risco de dupla gravacao e devolucao revalidada antes de processar",
+    "Taxa de entrega agora entra no total da venda, no troco e no caixa do dia",
+    "Carrinho nao se perde se a aplicacao fechar no meio da venda",
+    "Stock atomico: ajustes manuais deixam de ser pisados por vendas em paralelo",
+    "Novo Diagnostico nas Definicoes: registo de erros exportavel para suporte"
   ]
 }
