@@ -1,13 +1,13 @@
 {
-  "version": "1.8.0",
-  "versionCode": 10800,
+  "version": "1.8.1",
+  "versionCode": 10801,
   "releaseDate": "2026-08-24",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.8.0.apk",
-  "sha256": "357878ba8725c87376e29c84111a5079dbc60939dfcf579fbd3c75c1ea273c14",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.8.1.apk",
+  "sha256": "a397404f798163899855d1ab771bdb7bb64ce5c1bebd1526d4562ae37579ab35",
   "fileSize": "4.11 MB",
   "changelog": [
-    "Novo: pagamento na entrega (COD) para encomendas sem venda — o entregador cobra na porta e o dinheiro entra no caixa com rasto completo, mesmo com o caixa fechado",
-    "Novo: devoluções exigem o PIN do gerente e ficam registadas com o nome de quem autorizou",
-    "Listas de vendas, produtos e compras mais leves quando há muitos registos (botão mostrar mais)"
+    "Correção: não é mais possível registar duas vezes o pagamento na entrega (COD) — o dinheiro nunca duplica no caixa, mesmo com toques rápidos",
+    "Relatórios exportados em CSV agora abrem corretamente no Excel português (vírgula decimal, sem «undefined»)",
+    "Assinaturas de entrega ocupam ~10x menos espaço no telefone"
   ]
 }
