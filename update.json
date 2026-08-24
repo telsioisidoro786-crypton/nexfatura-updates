@@ -1,17 +1,14 @@
 {
-  "version": "1.7.0",
-  "versionCode": 10700,
+  "version": "1.7.1",
+  "versionCode": 10701,
   "releaseDate": "2026-08-24",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.7.0.apk",
-  "sha256": "e077837f54e570d426c03e3f656af55bc092afb7f812fb3d090b1f4b681cb78e",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.7.1.apk",
+  "sha256": "69c7096d2ade11185c9d87897f8b01ee5eaf4960856b3e1d34156032fde7f236",
   "fileSize": "4.10 MB",
   "changelog": [
-    "Impressao a prova de falhas: fila de impressao com tempo limite e retry automatico quando o Bluetooth cai",
-    "Reimprimir o ultimo recibo com um toque no PDV (funciona mesmo depois de fechar a aplicacao)",
-    "Dinheiro: recebimento fiado sem risco de dupla gravacao e devolucao revalidada antes de processar",
-    "Taxa de entrega agora entra no total da venda, no troco e no caixa do dia",
-    "Carrinho nao se perde se a aplicacao fechar no meio da venda",
-    "Stock atomico: ajustes manuais deixam de ser pisados por vendas em paralelo",
-    "Novo Diagnostico nas Definicoes: registo de erros exportavel para suporte"
+    "Formularios ja nao quebram com caracteres especiais no nome de clientes e fornecedores",
+    "Vendas: o caixa aberto e revalidado antes de gravar cada venda — fim dos recibos fora do relatorio Z",
+    "Mensagens de erro claras em entregas, relatorios e fecho do caixa (com botao disponivel para tentar de novo)",
+    "Mapa offline mais leve: cache de mapas limitada para proteger os dados de vendas em aparelhos cheios"
   ]
 }
