@@ -1,13 +1,13 @@
 {
-  "version": "1.10.0",
-  "versionCode": 11000,
+  "version": "1.11.0",
+  "versionCode": 11100,
   "releaseDate": "2026-08-25",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.10.0.apk",
-  "sha256": "e1ad14f757335601e2daf9421ce8af0b1530631170f887e24f5a4aa2ae2f7d4c",
-  "fileSize": "4.01 MB",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.11.0.apk",
+  "sha256": "e794d0abd7e46f04701ae254696850cad328316eb17ce59ab6b10c1ec5c5d6c9",
+  "fileSize": "4.02 MB",
   "changelog": [
-    "NOVO: Histórico completo de stock — cada venda, compra, devolução, estorno ou ajuste fica registado com saldo, utilizador e data. Histórico disponível no ícone de relógio de cada produto",
-    "NOVO: Pagamento parcial de contas por pagar — defina o valor a pagar em vez de liquidar tudo de uma vez",
-    "Melhoria: contas por pagar agora aceitam pagamentos faseados (múltiplos parciais até liquidação total)"
+    "NOVO: Renomear categorias — botão de edição no formulário de produto permite renomear uma categoria e atualiza todos os produtos associados de uma vez",
+    "NOVO: Período personalizado nos relatórios — escolha \"Personalizado\" e defina as datas de início e fim para filtrar vendas, entregas e curva ABC",
+    "Última atualização de funcionalidades — o aplicativo está agora completo para uso diário"
   ]
 }
