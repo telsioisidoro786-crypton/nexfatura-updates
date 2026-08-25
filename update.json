@@ -1,13 +1,15 @@
 {
-  "version": "1.8.1",
-  "versionCode": 10801,
-  "releaseDate": "2026-08-24",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.8.1.apk",
-  "sha256": "a397404f798163899855d1ab771bdb7bb64ce5c1bebd1526d4562ae37579ab35",
-  "fileSize": "4.11 MB",
+  "version": "1.9.0",
+  "versionCode": 10900,
+  "releaseDate": "2026-08-25",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.9.0.apk",
+  "sha256": "893b816a4980479e80507bf3df7b92b14d75a8e448414d47b6de23398d1758ae",
+  "fileSize": "4.01 MB",
   "changelog": [
-    "Correção: não é mais possível registar duas vezes o pagamento na entrega (COD) — o dinheiro nunca duplica no caixa, mesmo com toques rápidos",
-    "Relatórios exportados em CSV agora abrem corretamente no Excel português (vírgula decimal, sem «undefined»)",
-    "Assinaturas de entrega ocupam ~10x menos espaço no telefone"
+    "NOVO: Contas por Pagar de fornecedores — compras a prazo criam dívida real; liquidar desconta do caixa e entra no fecho e no Relatório Z (dívidas antigas são recuperadas automaticamente)",
+    "NOVO: Alerta de stock mínimo — badge vermelho no separador Produtos + aviso ao entrar no aplicativo",
+    "Segurança: compras a fornecedores agora com proteção anti-duplo-toque — impossível registar a mesma compra duas vezes",
+    "Aplicativo ~100 KB mais leve (código morto do scanner removido)",
+    "Backups agora incluem as contas por pagar (restauro sem perder dívidas)"
   ]
 }
