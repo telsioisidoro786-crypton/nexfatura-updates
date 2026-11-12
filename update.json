@@ -1,13 +1,15 @@
 {
-  "version": "1.11.0",
-  "versionCode": 11100,
-  "releaseDate": "2026-08-25",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.11.0.apk",
-  "sha256": "e794d0abd7e46f04701ae254696850cad328316eb17ce59ab6b10c1ec5c5d6c9",
-  "fileSize": "4.02 MB",
+  "version": "1.13.0",
+  "versionCode": 11300,
+  "releaseDate": "2026-11-12",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.13.0.apk",
+  "sha256": "13ad7969665901bd3ae5c0bb94612584286e34f25a085a29e85c5b2631cfc519",
+  "fileSize": "4.47 MB",
   "changelog": [
-    "NOVO: Renomear categorias — botão de edição no formulário de produto permite renomear uma categoria e atualiza todos os produtos associados de uma vez",
-    "NOVO: Período personalizado nos relatórios — escolha \"Personalizado\" e defina as datas de início e fim para filtrar vendas, entregas e curva ABC",
-    "Última atualização de funcionalidades — o aplicativo está agora completo para uso diário"
-  ]
+    "NOVO: Emissão de documentos fiscais (AGT/SAF-T AO): numeração por série, assinatura eletrónica e cadeia de hash à prova de alterações",
+    "NOVO: Motor de conformidade fiscal AGT (Angola) — exportação SAF-T (AO) disponível para auditoria",
+    "SEGURANÇA: blindagem da base de dados — backups importados são validados linha a linha e dados malformados são recusados",
+    "Melhorias de estabilidade e correções internas"
+  ],
+  "signature": "TGNCZSAOCUArG58twnUsOvUqj1EUuPzGF0etlLP0OD1UUv2RXpch5AxgBoVSINCc6q0QQucFVAdLagJ6xIULAw=="
 }
