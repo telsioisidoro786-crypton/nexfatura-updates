@@ -1,14 +1,16 @@
 {
-  "version": "1.4.0",
-  "versionCode": 10400,
-  "releaseDate": "2026-08-22",
-  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.4.0.apk",
-  "sha256": "4a7517e2d91f37ff279f83aa842fe1364c51e101cab4ac6ff1b920424a169e96",
-  "fileSize": "4.02 MB",
+  "version": "1.13.1",
+  "versionCode": 11301,
+  "releaseDate": "2026-11-14",
+  "downloadUrl": "https://telsioisidoro786-crypton.github.io/nexfatura-updates/apks/nexfatura-1.13.1.apk",
+  "sha256": "0d0373bf55681ba9325650910a3de1867ea1b2eb165ba07a4e1dae8382a2ce52",
+  "fileSize": "4.71 MB",
   "changelog": [
-    "Novo: exportar o Relatório de Vendas em PDF (botão «Exportar PDF» junto ao CSV)",
-    "O PDF inclui resumo do período, repartição por método de pagamento, top 10 de produtos e histórico completo de vendas",
-    "Cabeçalho com nome, endereço, NIF e telefone da loja (Definições) e rodapé numerado em todas as páginas",
-    "Gerador de PDF próprio — continua 100% offline, sem bibliotecas externas"
-  ]
+    "NOVO: UI «Documentos Fiscais» — lista FT/NC com cadeia de hash, assinatura RSA-PSS, fila de sincronização e exportação SAF-T (AO)",
+    "NOVO: Alerta de stock baixo — badge no header dos produtos e limiar padrão configurável em Definições (5 un.)",
+    "FIX: Motor fiscal guarda descrição/qtd/preço das linhas no SAF-T (não saía vazio)",
+    "FIX: db.js loga eventos blocked/close para diagnóstico de load_error",
+    "Melhorias de estabilidade e correções internas"
+  ],
+  "signature": "SLRpBIDFSrp/AVSI3grTdAjY8cG/Sv0nGg0WfXMaNGesyH1Scc2wsgtqBb9+IqUZqgDr1mr0/qtBIDWjgWWWDA=="
 }
